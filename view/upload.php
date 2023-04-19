@@ -1,7 +1,6 @@
 <?php
-//<!--Student ID: 101399392-->
-//<!--Student Name: Mahyar Ghasemi Khah-->
-//<!--CLass: lecture: Tuesday 10-12, Lab: Wednesday 10-12-->
+//<!--Mahyar Ghasemi Khah-->
+
 if (!isset($_SESSION['userid'])) {
     header('Location: ../controller.php');
     exit();
