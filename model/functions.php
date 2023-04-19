@@ -1,6 +1,5 @@
-<!--Student ID: 101399392-->
-<!--Student Name: Mahyar Ghasemi Khah-->
-<!--CLass: lecture: Tuesday 10-12, Lab: Wednesday 10-12-->
+<!--Mahyar Ghasemi Khah-->
+
 <?php
 function getCurrentFile() //This is the function that gets the current file.
 {
