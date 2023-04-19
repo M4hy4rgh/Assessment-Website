@@ -1,0 +1,6 @@
+1,COMP1230,Assignment,2019-10-10,"23:59 PM",Completed
+2,COMP1234,Quiz,2019-10-10,"23:59 PM",Completed
+3,COMP1231,Test,2019-10-10,"23:59 PM",Completed
+4,COMP1240,Exam,2019-10-10,"23:59 PM",Completed
+5,COMP1232,"Final Exam",2019-10-10,"23:59 PM",Completed
+6,COMP1233,"Lab Test",2019-10-10,"23:59 PM",Completed
